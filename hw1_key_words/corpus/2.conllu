@@ -1,0 +1,452 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Название Выставка замечательного русского художника Ключевые слова москва, выставка, живопись, художник, русская история, вера, родина, победа;художник, союз художников, Россия, вера Источник http://zavtra.ru/events/vistavka_zamechatel_nogo_russkogo_hudozhnika .
+1	Название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\t
+2	Выставка	выставка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+3	замечательного	замечательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+4	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\r\n
+6	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	SpacesAfter=\t
+8	москва	москва	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	живопись	живопись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	художник	художника	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	русская	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	вера	вера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	родина	родина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	победа	победа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+24	;	;	PUNCT	_	_	7	punct	_	SpaceAfter=No
+25	художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	союз	союз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	conj	_	_
+28	художников	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	вера	вера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	conj	_	SpacesAfter=\r\n
+33	Источник	источник	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	nmod	_	SpacesAfter=\t
+34	http://zavtra.ru/events/vistavka_zamechatel_nogo_russkogo_hudozhnika	http://zavtra.ru/events/vistavka_zamechatel_nogo_russkogo_hudozhnika	X	_	Foreign=Yes	33	flat:foreign	_	_
+35	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 2
+# text = 1 ноября в 14:00 в Музее Победы на Поклонной горе (художественная галерея/3 этаж) состоится открытие первой в Москве персональной выставки художника Владимира Киреева.
+1	1	1	NUM	_	_	20	nummod	_	_
+2	ноября	ноябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	14	14	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	00	00	NUM	_	_	4	nummod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	Музее	музей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+9	Победы	Победа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	на	на	ADP	_	_	12	case	_	_
+11	Поклонной	Поклонный	PROPN	_	_	12	amod	_	_
+12	горе	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+13	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	художественная	художественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	галерея	галерея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	SpaceAfter=No
+16	/	/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	3	3	NUM	_	_	18	nummod	_	_
+18	этаж	этаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	appos	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	15	punct	_	_
+20	состоится	состояться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+21	открытие	открытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+22	первой	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+25	персональной	персональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+27	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	27	appos	_	_
+29	Киреева	Киреева	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	flat:name	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 3
+# text = Она носит название "Литургия верных".
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
+2	носит	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Литургия	литургия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+6	верных	верный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	obl	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 4
+# text = Владимир - член Союза художников России, победитель IV Всероссийского конкурса художественных работ "От Древней Руси к Новой России", участник проекта "Непокорённые.
+1	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	-	-	PUNCT	_	_	3	punct	_	_
+3	член	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Союза	Союз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	художников	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	победитель	победитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+9	IV	iv	NUM	_	_	11	nummod	_	_
+10	Всероссийского	всероссийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	конкурса	конкурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+12	художественных	художественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	работ	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+15	От	от	ADP	_	_	17	case	_	_
+16	Древней	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	Руси	Русь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+18	к	к	ADP	_	_	20	case	_	_
+19	Новой	новый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	участник	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+24	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+25	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	Непокорённые	Непокорённый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	appos	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Русский путь" и выставки "Наука побеждать.
+1	Русский	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	путь	путь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	"	"	PUNCT	_	_	5	punct	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	выставки	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+6	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	Наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	obj	_	_
+8	побеждать	побеждать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Военная история в изобразительном искусстве".
+1	Военная	военный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	изобразительном	изобразительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	искусстве	искусство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = И просто хороший, глубоко порядочный русский человек.
+1	И	и	CCONJ	_	_	8	cc	_	_
+2	просто	просто	PART	_	_	8	advmod	_	_
+3	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	глубоко	глубоко	ADV	_	Degree=Pos	6	obl	_	_
+6	порядочный	порядочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+7	русский	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n
+
+# sent_id = 8
+# text = Из интервью Киреева газете "Православный Крест": "Что может изменить художник, если даже после Богоявления, человечество не желает преобразиться?
+1	Из	из	ADP	_	_	2	case	_	_
+2	интервью	интервью	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+3	Киреева	Киреева	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	газете	газета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	appos	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	Православный	православный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	Крест	крест	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	7	punct	_	_
+10	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	Что	что	PRON	_	Case=Nom	12	nsubj	_	_
+12	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	23	punct	_	_
+16	если	если	SCONJ	_	_	23	mark	_	_
+17	даже	даже	PART	_	_	19	advmod	_	_
+18	после	после	ADP	_	_	19	case	_	_
+19	Богоявления	Богоявление	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	_
+24	преобразиться	преобразиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	23	xcomp	_	SpaceAfter=No
+25	?	?	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 9
+# text = Мы живём в модернизированном Колизее, жаждущем хлеба, крови, зрелищ и комфорта.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	живём	живь	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	модернизированном	модернизировать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	Колизее	Колизей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	жаждущем	жаждуть	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	_
+8	хлеба	хлеб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	зрелищ	зрелище	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	8	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	комфорта	комфорт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 10
+# text = И в глобальном смысле искусство не меняет человечество.
+1	И	и	CCONJ	_	_	7	cc	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	глобальном	глобальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+5	искусство	искусство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	меняет	менять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 11
+# text = Никак.
+1	Никак	никак	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = Вообще.
+1	Вообще	вообще	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13
+# text = Какая цель может быть у художника?
+1	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	cop	_	_
+5	у	у	ADP	_	_	6	case	_	_
+6	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 14
+# text = Лучше всех передавать нюансы цвета?
+1	Лучше	хороший	ADJ	_	Degree=Cmp	0	root	_	_
+2	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur	3	obj	_	_
+3	передавать	передавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+4	нюансы	нюанс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	цвета	цвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Писать «похожие» портреты?
+1	Писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+2	«похожие»	«похожие»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	obl	_	_
+3	портреты	портрет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 16
+# text = Потешить гордыню и стать известным и покупаемым?
+1	Потешить	тешить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+2	гордыню	гордыня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	conj	_	_
+5	известным	известный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	obl	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	покупаемым	покупать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	conj	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = Или стать этаким гуру, учащим людей жизни?
+1	Или	или	CCONJ	_	_	2	cc	_	_
+2	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	_
+3	этаким	этакий	DET	_	Case=Dat|Number=Plur	4	det	_	_
+4	гуру	гуру	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	учащим	учать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 18
+# text = Честно говоря, мне ничего из перечисленного не интересно.
+1	Честно	честно	ADV	_	Degree=Pos	2	advmod	_	_
+2	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	9	iobj	_	_
+5	ничего	ничто	PRON	_	Case=Gen	9	nsubj	_	_
+6	из	из	ADP	_	_	7	mark	_	_
+7	перечисленного	перечислить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 19
+# text = И, наверное, как у «художника» в материалистическом понимании этой сферы деятельности у меня нет прикладной цели.
+1	И	и	CCONJ	_	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	наверное	наверное	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	как	как	SCONJ	_	_	7	mark	_	_
+6	у	у	ADP	_	_	7	case	_	_
+7	«художника»	«художника»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	материалистическом	материалистический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+11	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	12	det	_	_
+12	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	16	obl	_	_
+16	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	прикладной	прикладной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 20
+# text = Но, как и у каждого человека, у меня есть духовная основа, которую я пытаюсь распознать.
+1	Но	но	CCONJ	_	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	7	mark	_	_
+4	и	и	PART	_	_	7	advmod	_	_
+5	у	у	ADP	_	_	7	case	_	_
+6	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
+7	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	у	у	ADP	_	_	10	case	_	_
+10	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	11	obl	_	_
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	духовная	духовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	основа	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	которую	который	PRON	_	Case=Acc	18	obj	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	17	nsubj	_	_
+17	пытаюсь	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	_
+18	распознать	распознать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 21
+# text = Научиться отличать добро от зла, жить по совести и по правде Божией.
+1	Научиться	научиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	_
+2	отличать	отличать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+3	добро	добро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	от	от	ADP	_	_	5	case	_	_
+5	зла	зло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	_
+8	по	по	ADP	_	_	9	case	_	_
+9	совести	совесть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	правде	правда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	conj	_	_
+13	Божией	Божия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = И в этом смысле живопись для меня — это не рефлексы, композиция и звонкие цвета.
+1	И	и	CCONJ	_	_	11	cc	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+5	живопись	живопись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	11	nmod	_	_
+8	—	—	PUNCT	_	_	7	punct	_	_
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	рефлексы	рефлекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	композиция	композиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	conj	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	звонкие	звонкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	цвета	цвета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 23
+# text = Это своеобразный исповедальный акт и мой способ разговаривать с единомышленниками о возможностях самостоятельного и совместного сбережения, насыщения и укрепления той самой врождённой духовной основы";
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	своеобразный	своеобразный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	исповедальный	исповедальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	акт	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
+7	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+8	разговаривать	разговаривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	obl	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	единомышленниками	единомышленник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	8	obl	_	_
+11	о	о	ADP	_	_	12	case	_	_
+12	возможностях	возможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	nmod	_	_
+13	самостоятельного	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	совместного	совместный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	conj	_	_
+16	сбережения	сбережения	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	насыщения	насыщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	conj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	укрепления	укрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	conj	_	_
+21	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing	25	det	_	_
+22	самой	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+23	врождённой	врождённый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+24	духовной	духовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	основы	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	;	;	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 24
+# text = "Русские не красные, не белые, не серые в яблоках.
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Русские	русский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	красные	красный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	белые	белый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	серые	серый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	conj	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	яблоках	яблоко	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25
+# text = Русские — это верные друг другу, Отечеству и Богу.
+1	Русские	русский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+2	—	—	PUNCT	_	_	1	punct	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	верные	верный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	другу	друг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Отечеству	Отечество	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	appos	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	Богу	Бог	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 26
+# text = В единстве наша победа.
+1	В	в	ADP	_	_	2	case	_	_
+2	единстве	единство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+3	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	победа	победа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 27
+# text = В раздробленности — победа наших врагов.
+1	В	в	ADP	_	_	2	case	_	_
+2	раздробленности	раздробленность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+3	—	—	PUNCT	_	_	2	punct	_	_
+4	победа	победа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	наших	наш	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	врагов	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 28
+# text = Что и подтверждает в конечном счёте сама история".
+1	Что	что	PRON	_	Case=Nom	3	nsubj	_	_
+2	и	и	PART	_	_	3	advmod	_	_
+3	подтверждает	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	конечном	конечный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	счёте	счёт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+

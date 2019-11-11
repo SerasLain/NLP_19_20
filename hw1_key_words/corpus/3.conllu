@@ -1,0 +1,213 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Название Ничто - ничтожит.
+1	Название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	SpacesAfter=\t
+2	Ничто	ничто	PRON	_	Case=Nom	1	appos	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	ничтожит	ничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+# text = Великие - навсегда!
+1	Великие	великий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	nsubj	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	навсегда	навсегда	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 3
+# text = Ключевые слова концерт, музыка, рок;scorpions, втб арена, концерт Источник http://zavtra.ru/events/nichto_-_nichtozhit_velikie_-_navsegda .
+1	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpacesAfter=\t
+3	концерт	концерт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	рок	рок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+8	;	;	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	scorpions	scorpions	X	_	Foreign=Yes	2	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	втб	втбы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+12	арена	арен	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	концерт	концерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\r\n
+15	Источник	источник	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	SpacesAfter=\t
+16	http://zavtra.ru/events/nichto_-_nichtozhit_velikie_-_navsegda	http://zavtra.ru/events/nichto_-_nichtozhit_velikie_-_navsegda	X	_	Foreign=Yes	15	flat:foreign	_	_
+17	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 4
+# text = Великая немецкая рок-группа Scorpions во вторник выступила на московском стадионе "ВТБ-Арена" в рамках мирового турне, посвящённого альбому Crazy World.
+1	Великая	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	немецкая	немецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	рок	рок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+4	-группа	-группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Scorpions	Scorpions	PROPN	_	Foreign=Yes	4	flat:foreign	_	_
+6	во	в	ADP	_	_	7	case	_	_
+7	вторник	вторник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	_
+8	выступила	выступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	на	на	ADP	_	_	11	case	_	_
+10	московском	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	стадионе	стадион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	ВТБ	ВТб	PROPN	_	Foreign=Yes	11	appos	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	Арена	Арен	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	13	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	nmod	_	_
+19	мирового	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	турне	турне	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	посвящённого	посвящёть	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+23	альбому	альбый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+24	Crazy	Crazy	PROPN	_	Foreign=Yes	23	flat:foreign	_	_
+25	World	World	PROPN	_	Foreign=Yes	22	obj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n
+
+# sent_id = 5
+# text = К великим часто пытается присобачиться шваль, грязь, падаль.
+1	К	к	ADP	_	_	2	case	_	_
+2	великим	великий	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	obl	_	_
+3	часто	часто	ADV	_	Degree=Pos	4	advmod	_	_
+4	пытается	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	присобачиться	присобачить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
+6	шваль	шваль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	грязь	грязь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	падаль	падаль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6
+# text = Не к ним, разумеется, а к самому мероприятию.
+1	Не	не	PART	_	_	3	advmod	_	_
+2	к	к	ADP	_	_	3	case	_	_
+3	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	разумеется	разумеется	ADV	_	Degree=Pos	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	а	а	CCONJ	_	_	10	cc	_	_
+8	к	к	ADP	_	_	10	case	_	_
+9	самому	сам	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	мероприятию	мероприятие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Сделали попытку и на этот раз.
+1	Сделали	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	попытку	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	и	и	CCONJ	_	_	6	cc	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	6	det	_	_
+6	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 8
+# text = Добились заголовков в тех СМИ, которые информационно сопровождали провокацию.
+1	Добились	добиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	заголовков	заголовок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	obl	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	тех	тот	DET	_	Case=Loc|Number=Plur	5	det	_	_
+5	СМИ	сми	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	которые	который	PRON	_	Case=Nom	9	nsubj	_	_
+8	информационно	информационне	ADV	_	Degree=Pos	9	advmod	_	_
+9	сопровождали	сопровождать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+10	провокацию	провокация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 9
+# text = "На московском концерте группы Scorpions на ВТБ арене задержали участников Pussy Riot", - верещит "Новая газета".
+1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	На	на	ADP	_	_	4	case	_	_
+3	московском	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	концерте	концерт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+5	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	Scorpions	Scorpions	PROPN	_	Foreign=Yes	5	flat:foreign	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	ВТБ	ВТБ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	amod	_	_
+9	арене	арена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+10	задержали	задержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	участников	участник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+12	Pussy	Pussy	PROPN	_	Foreign=Yes	11	flat:foreign	_	_
+13	Riot	Riot	PROPN	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	-	-	PUNCT	_	_	17	punct	_	_
+17	верещит	верещить	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+18	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	Новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	газета	газета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 10
+# text = "На концерте Scorpions в Москве задержали Петра Верзилова и Веронику Никульшину", - сообщает "МБХ Медиа" Ходорковского.
+1	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	На	на	ADP	_	_	3	case	_	_
+3	концерте	концерт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+4	Scorpions	Scorpions	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	задержали	задержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	Петра	Петр	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	Верзилова	Верзилов	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	Веронику	Вероника	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	_
+12	Никульшину	Никульшин	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	flat:name	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	-	-	PUNCT	_	_	16	punct	_	_
+16	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+17	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	МБХ	Мб	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+19	Медиа	медиа	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	19	punct	_	_
+21	Ходорковского	Ходорковский	PROPN	_	_	19	flat:name	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 11
+# text = Бессмысленно озвучивать остальных: на арене те же и там же.
+1	Бессмысленно	бессмысленно	ADV	_	Degree=Pos	2	advmod	_	_
+2	озвучивать	озвучивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+3	остальных	остальной	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	2	obj	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	арене	арена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+7	те	тот	DET	_	Case=Acc|Number=Plur	6	det	_	_
+8	же	же	PART	_	_	7	advmod	_	_
+9	и	и	PART	_	_	10	advmod	_	_
+10	там	там	ADV	_	Degree=Pos	7	advmod	_	_
+11	же	же	PART	_	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 12
+# text = А мы слушаем Скорпов (дурацких в своих заявлениях, умудрившихся со всем европейским пылом вляпаться в катастройку, но классных и бесконечно талантливых):
+1	А	а	CCONJ	_	_	3	cc	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	слушаем	слушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Скорпов	Скорпов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	obl	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	дурацких	дурацкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	appos	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	своих	свой	DET	_	Case=Loc|Number=Plur	9	det	_	_
+9	заявлениях	заявление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	умудрившихся	умудриться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	9	acl	_	_
+12	со	с	ADP	_	_	15	case	_	_
+13	всем	весь	DET	_	Case=Ins|Gender=Masc|Number=Sing	15	det	_	_
+14	европейским	европейский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	пылом	пыл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+16	вляпаться	вляпаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	катастройку	катастройка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	но	но	CCONJ	_	_	21	cc	_	_
+21	классных	классный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	conj	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	бесконечно	бесконечно	ADV	_	Degree=Pos	24	obl	_	_
+24	талантливых	талантливый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	conj	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+26	:	:	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+

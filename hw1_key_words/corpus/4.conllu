@@ -1,0 +1,1336 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Название Талантливая современная художница EVA, она же Евгения Васильева (та самая) Ключевые слова васильева, сердюков, современное искусство, выставка;выставка, EVA, современное искусство, художник, сердюков, васильева, музей востока, министерство обороны, культура Источник http://zavtra.ru/events/talantlivaya_sovremennaya_hudozhnitca_eva_ona_zhe_evgeniya_vasil_eva_(ta_samaya) .
+1	Название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	SpacesAfter=\t
+2	Талантливая	талантливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	современная	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	художница	художница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	EVA	EVA	PROPN	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+8	же	же	PART	_	_	7	advmod	_	_
+9	Евгения	Евгений	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+10	Васильева	Васильев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	flat:name	_	_
+11	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+12	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing	16	det	_	_
+13	самая	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	SpacesAfter=\r\n
+15	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	appos	_	SpacesAfter=\t
+17	васильева	васильев	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	сердюков	сердюк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	современное	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	искусство	искусство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+25	;	;	PUNCT	_	_	16	punct	_	SpaceAfter=No
+26	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	EVA	EVA	PROPN	_	Foreign=Yes	26	flat:foreign	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	современное	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	искусство	искусство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	сердюков	сердюк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	васильева	васильев	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	музей	музей	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	conj	_	_
+40	востока	востока	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	министерство	министерство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	_
+43	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	45	punct	_	_
+45	культура	культура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	SpacesAfter=\r\n
+46	Источник	источник	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	appos	_	SpacesAfter=\t
+47	http://zavtra.ru/events/talantlivaya_sovremennaya_hudozhnitca_eva_ona_zhe_evgeniya_vasil_eva_(ta_samaya)	http://zavtra.ru/events/talantlivaya_sovremennaya_hudozhnitca_eva_ona_zhe_evgeniya_vasil_eva_(ta_samaya)	PUNCT	_	_	46	punct	_	_
+48	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 2
+# text = С 9 августа в Государственном музее Востока проходит выставка "ОКО", где представлены произведения художника, выступающего под творческим псевдонимом EVA.
+1	С	с	ADP	_	_	2	case	_	_
+2	9	9	NUM	_	_	8	nummod	_	_
+3	августа	август	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	flat	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	Государственном	государственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	музее	музей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+7	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	проходит	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	ОКО	око	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	appos	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	где	где	ADV	_	Degree=Pos	15	advmod	_	_
+15	представлены	представить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
+16	произведения	произведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	nsubj:pass	_	_
+17	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	выступающего	выступать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	под	под	ADP	_	_	22	case	_	_
+21	творческим	творческий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	псевдонимом	псевдоним	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+23	EVA	EVA	PROPN	_	Foreign=Yes	22	flat:foreign	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n
+
+# sent_id = 3
+# text = Выставка проводится при поддержке Министерства культуры Российской Федерации и Фонда "Русские меценаты".
+1	Выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	проводится	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	при	при	ADP	_	_	4	case	_	_
+4	поддержке	поддержка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	культуры	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	Фонда	Фонд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	conj	_	_
+11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	Русские	русский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	меценаты	меценат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	appos	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = В пресс-релизе сказано: "Работы EVA хорошо известны ценителям современного искусства на Западе и в США.
+1	В	в	ADP	_	_	2	case	_	_
+2	пресс-релизе	пресс-релиз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+3	сказано	сказать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+6	Работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	EVA	EVA	PROPN	_	Foreign=Yes	6	flat:foreign	_	_
+8	хорошо	хорошо	ADV	_	Degree=Pos	9	obl	_	_
+9	известны	известный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	parataxis	_	_
+10	ценителям	ценитель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+11	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	Западе	Запад	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	14	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Однако до последнего времени у широкого круга зрителей в России не было возможности познакомиться с творчеством художника".
+1	Однако	однако	ADV	_	Degree=Pos	12	advmod	_	_
+2	до	до	ADP	_	_	4	case	_	_
+3	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+5	у	у	ADP	_	_	7	case	_	_
+6	широкого	широкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	круга	круг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+8	зрителей	зритель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	_
+14	познакомиться	знакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	obl	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	творчеством	творчество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+17	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 6
+# text = Заинтриговали.
+1	Заинтриговали	интриговать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 7
+# text = Высокостатусная таинственная незнакомка, любимица Минкульта РФ и западных ценителей современного искусства...
+1	Высокостатусная	Высокостатусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	таинственная	таинственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	незнакомка	незнакомка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	любимица	любимица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+6	Минкульта	Минкульт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	западных	западный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	ценителей	ценитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	_
+11	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = Интрига, впрочем, длилась недолго.
+1	Интрига	интрига	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	впрочем	впрочем	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	длилась	длиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	недолго	недолго	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 9
+# text = Загадочной художницей оказалась 40-летняя Евгения Николаевна Васильева.
+1	Загадочной	загадочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	художницей	художница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+3	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	40-летняя	40-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	Евгения	Евгения	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	Николаевна	Николаевна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	Васильева	Васильев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = Та самая знойная блондинка, вскружившая голову г-ну Сердюкову и ставшая фигуранткой громкого коррупционного скандала в оборонном ведомстве.
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+2	самая	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
+3	знойная	знойный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	блондинка	блондинка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	вскружившая	вскружить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
+7	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	г-ну	господин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+9	Сердюкову	Сердюков	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	appos	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	ставшая	стать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	6	conj	_	_
+12	фигуранткой	фигурантка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	_
+13	громкого	громкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+14	коррупционного	коррупционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	скандала	скандал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	оборонном	оборонный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 11
+# text = Девочка из обеспеченной питерской семьи, краснодипломная выпускница СПбГУ в 2007-12 годах вдруг сделала лихую карьеру: генеральный директор петербургского филиала московского строительного гиганта "СУ-155", советник первого вице-мэра Москвы Владимира Ресина (ныне депутат Госдумы РФ), советник замруководителя президентской администрации Александра Беглова (ныне врио губернатора Санкт-Петербурга), советник - начальник аппарата министра обороны РФ Анатолия Сердюкова (ныне председатель совета директоров ПАО "Объединённая авиастроительная корпорация"), руководитель Департамента имущественных отношений Министерства обороны Российской Федерации.
+1	Девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+2	из	из	ADP	_	_	5	case	_	_
+3	обеспеченной	обеспечить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
+4	питерской	питерской	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	краснодипломная	краснодипломный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	выпускница	выпускница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+9	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	в	в	ADP	_	_	14	case	_	_
+11	2007	2007	NUM	_	_	14	nummod	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	12	12	NUM	_	_	11	nummod	_	_
+14	годах	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	nmod	_	_
+15	вдруг	вдруг	ADV	_	Degree=Pos	16	advmod	_	_
+16	сделала	делать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+17	лихую	лихой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	карьеру	карьера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	16	punct	_	_
+20	генеральный	генеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	директор	директор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	parataxis	_	_
+22	петербургского	петербургский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	филиала	филиал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	московского	московский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+25	строительного	строительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	гиганта	гигант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+27	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	СУ	Са	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	appos	_	SpaceAfter=No
+29	-	-	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	155	155	NUM	_	_	28	nummod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	советник	советник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+34	первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	_
+35	вице-мэра	вице-мэр	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+36	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+37	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+38	Ресина	Ресин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	37	flat:name	_	_
+39	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
+40	ныне	ныне	ADV	_	Degree=Pos	41	advmod	_	_
+41	депутат	депутат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	parataxis	_	_
+42	Госдумы	Госдума	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	_
+43	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	)	)	PUNCT	_	_	41	punct	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	советник	советник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+47	замруководителя	замруководителя	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
+48	президентской	президентский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+49	администрации	администрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	_
+50	Александра	Александр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	47	appos	_	_
+51	Беглова	Беглов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	50	flat:name	_	_
+52	(	(	PUNCT	_	_	54	punct	_	SpaceAfter=No
+53	ныне	ныне	ADV	_	Degree=Pos	54	advmod	_	_
+54	врио	врио	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	50	parataxis	_	_
+55	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	_
+56	Санкт-Петербурга	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	55	nmod	_	SpaceAfter=No
+57	)	)	PUNCT	_	_	54	punct	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	59	punct	_	_
+59	советник	советник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+60	-	-	PUNCT	_	_	61	punct	_	_
+61	начальник	начальник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	59	appos	_	_
+62	аппарата	аппарат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	nmod	_	_
+63	министра	министр	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	62	nmod	_	_
+64	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	63	nmod	_	_
+65	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	63	nmod	_	_
+66	Анатолия	Анатолий	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	62	appos	_	_
+67	Сердюкова	Сердюков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	66	flat:name	_	_
+68	(	(	PUNCT	_	_	70	punct	_	SpaceAfter=No
+69	ныне	ныне	ADV	_	Degree=Pos	70	advmod	_	_
+70	председатель	председатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	66	parataxis	_	_
+71	совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	70	nmod	_	_
+72	директоров	директор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	71	nmod	_	_
+73	ПАО	ПАО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	72	nmod	_	_
+74	"	"	PUNCT	_	_	77	punct	_	SpaceAfter=No
+75	Объединённая	Объединёть	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	77	amod	_	_
+76	авиастроительная	авиастроительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	77	amod	_	_
+77	корпорация	корпорация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	70	appos	_	SpaceAfter=No
+78	"	"	PUNCT	_	_	77	punct	_	SpaceAfter=No
+79	)	)	PUNCT	_	_	70	punct	_	SpaceAfter=No
+80	,	,	PUNCT	_	_	81	punct	_	_
+81	руководитель	руководитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+82	Департамента	Департамент	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	81	nmod	_	_
+83	имущественных	имущественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	84	amod	_	_
+84	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	82	nmod	_	_
+85	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	82	nmod	_	_
+86	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	85	nmod	_	_
+87	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	88	amod	_	_
+88	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	85	nmod	_	SpaceAfter=No
+89	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 12
+# text = Получила из рук уходящего президента Дмитрия Медведева орден Почёта, но через несколько месяцев пошла по делу о хищениях в ОАО "Оборонсервис".
+1	Получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	рук	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	_
+4	уходящего	уходить	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
+5	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	Дмитрия	Дмитрий	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Медведева	Медведев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	орден	орден	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+9	Почёта	Почёт	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	но	но	CCONJ	_	_	15	cc	_	_
+12	через	через	ADP	_	_	14	case	_	_
+13	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	14	nummod:gov	_	_
+14	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	obl	_	_
+15	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+16	по	по	ADP	_	_	17	case	_	_
+17	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	obl	_	_
+18	о	о	ADP	_	_	19	case	_	_
+19	хищениях	хищение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	17	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	ОАО	оао	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	nmod	_	_
+22	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	Оборонсервис	Оборонсервис	PROPN	_	_	21	appos	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13
+# text = Тогда у возлюбленной Сердюкова оперативники изъяли чемодан с 19 кг золота и платины, а также 51 тысячу драгоценных камней.
+1	Тогда	тогда	ADV	_	Degree=Pos	6	advmod	_	_
+2	у	у	ADP	_	_	5	case	_	_
+3	возлюбленной	возлюблеть	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+4	Сердюкова	Сердюков	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	оперативники	оперативник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	obl	_	_
+6	изъяли	изъять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	чемодан	чемодан	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	19	19	NUM	_	_	10	nummod	_	_
+10	кг	килограмм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+11	золота	золото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	платины	платина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	а	а	CCONJ	_	_	18	cc	_	_
+16	также	также	PART	_	_	15	fixed	_	_
+17	51	51	NUM	_	_	18	nummod	_	_
+18	тысячу	тысяча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	_	_
+19	драгоценных	драгоценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	камней	камень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 14
+# text = Сама Евгения Николаевна пренебрежительно назвала всё это "дешёвой бижутерией" (потом заветный чемодан и прочее арестованное имущество невинной страдалице вернули).
+1	Сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	Евгения	Евгений	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	Николаевна	Николаевна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	пренебрежительно	пренебрежительно	ADV	_	Degree=Pos	5	advmod	_	_
+5	назвала	назвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	всё	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	7	det	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	дешёвой	дешёвый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	бижутерией	бижутерия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	потом	потом	ADV	_	Degree=Pos	15	advmod	_	_
+14	заветный	заветный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	чемодан	чемодан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	_
+16	и	и	CCONJ	_	_	19	cc	_	_
+17	прочее	прочий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	арестованное	арестовать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	amod	_	_
+19	имущество	имущество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	conj	_	_
+20	невинной	невинный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	страдалице	страдалица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	iobj	_	_
+22	вернули	вераться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	appos	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15
+# text = Вскоре Васильева открыла в Москве ювелирную компанию "Результат" и ювелирный салон.
+1	Вскоре	вскоре	ADV	_	Degree=Pos	3	advmod	_	_
+2	Васильева	Васильев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	открыла	открыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	ювелирную	ювелирный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	компанию	компания	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Результат	результат	PROPN	_	_	7	appos	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	ювелирный	ювелирный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	салон	салон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 16
+# text = С 23.11.2012 по 8.05.2015 пребывала под домашним арестом в шикарных апартаментах по адресу Молочный переулок, 6 (люди утверждали, что нередко встречали её в московских бутиках в данный период).
+1	С	с	ADP	_	_	2	case	_	_
+2	23.11.2012	23.11.2012	NUM	_	_	5	nummod	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	8.05.2015	8.05.2015	NUM	_	_	2	nummod	_	_
+5	пребывала	пребывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	под	под	ADP	_	_	8	case	_	_
+7	домашним	домашний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	арестом	арест	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	шикарных	шикарный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	_
+11	апартаментах	апартамент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	адресу	адрес	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	_
+14	Молочный	Молочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	переулок	переулок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	6	6	NUM	_	_	15	nummod	_	_
+18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+20	утверждали	утверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	что	что	SCONJ	_	_	24	mark	_	_
+23	нередко	нередко	ADV	_	Degree=Pos	24	advmod	_	_
+24	встречали	встречать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+25	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	24	obj	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	московских	московский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	amod	_	_
+28	бутиках	бутик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	24	obl	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obl	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 17
+# text = 8 мая 2015 года приговорена к 5 годам лишения свободы в колонии общего режима за мошенничество при продаже активов Минобороны, 25 августа того же года освобождена по УДО.
+1	8	8	NUM	_	_	5	nummod	_	_
+2	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	2015	2015	NUM	_	_	4	nummod	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	приговорена	приговорить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	к	к	ADP	_	_	8	case	_	_
+7	5	5	NUM	_	_	8	nummod	_	_
+8	годам	год	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	5	obl	_	_
+9	лишения	лишение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+10	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	колонии	колония	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	_	_
+13	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+15	за	за	ADP	_	_	16	case	_	_
+16	мошенничество	мошенничество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
+17	при	при	ADP	_	_	18	case	_	_
+18	продаже	продажа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	_
+19	активов	актив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+20	Минобороны	Минобороны	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	25	25	NUM	_	_	27	nummod	_	_
+23	августа	август	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	flat	_	_
+24	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	26	det	_	_
+25	же	же	PART	_	_	24	advmod	_	_
+26	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+27	освобождена	освободить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	conj	_	_
+28	по	по	ADP	_	_	29	case	_	_
+29	УДО	УДО	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 18
+# text = Затем - живопись, бронзовая скульптура, поэзия, музыка (назовём сие так).
+1	Затем	затем	ADV	_	Degree=Pos	0	root	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	живопись	живопись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	бронзовая	бронзовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	скульптура	скульптура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	поэзия	поэзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+11	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	назовём	назовем	ADP	_	_	13	case	_	_
+13	сие	сие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	parataxis	_	_
+14	так	так	ADV	_	Degree=Pos	13	advmod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = Книга любовной лирики, клипы, вступление в Международный художественный фонд, выставка на Винзаводе, выставка в рамках Art & Science day (организуемого фондом "Сколково"), выставки на факультете искусств МГУ и в Московском драматическом театре имени Ермоловой, выставка в итальянском Палермо.
+1	Книга	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	любовной	любовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	лирики	лирика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	клипы	клип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	вступление	вступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+8	в	в	ADP	_	_	11	case	_	_
+9	Международный	международный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	художественный	художественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	фонд	фонд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	Винзаводе	Винзавод	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	nmod	_	_
+20	Art	Art	PROPN	_	Foreign=Yes	19	flat:foreign	_	_
+21	&	&	PUNCT	_	_	19	punct	_	_
+22	Science	Science	PROPN	_	Foreign=Yes	19	flat:foreign	_	_
+23	day	day	X	_	Foreign=Yes	19	flat:foreign	_	_
+24	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
+25	организуемого	организуемый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	26	amod	_	_
+26	фондом	фонд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	parataxis	_	_
+27	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	Сколково	Сколково	PROPN	_	_	26	nmod	_	SpaceAfter=No
+29	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	conj	_	_
+33	на	на	ADP	_	_	34	case	_	_
+34	факультете	факультет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	nmod	_	_
+35	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+36	МГУ	МГУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+37	и	и	CCONJ	_	_	41	cc	_	_
+38	в	в	ADP	_	_	41	case	_	_
+39	Московском	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+40	драматическом	драматический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	театре	театр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	conj	_	_
+42	имени	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	Ермоловой	Ермолова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	45	punct	_	_
+45	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+46	в	в	ADP	_	_	48	case	_	_
+47	итальянском	итальянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	48	amod	_	_
+48	Палермо	Палермо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = В прошлом году Васильева окончила с красным дипломом магистратуру факультета искусств МГУ по направлению "искусствоведение" и - одновременно, с отличием - программу дополнительного профессионального образования Британской школы дизайна по направлению "современное искусство".
+1	В	в	ADP	_	_	3	case	_	_
+2	прошлом	прошлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	Васильева	Васильев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	окончила	окончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	с	с	ADP	_	_	8	case	_	_
+7	красным	красный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	дипломом	диплом	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+9	магистратуру	магистратура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+10	факультета	факультет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	МГУ	МГУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	по	по	ADP	_	_	14	case	_	_
+14	направлению	направление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	искусствоведение	искусствоведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	appos	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	и	и	CCONJ	_	_	25	cc	_	_
+19	-	-	PUNCT	_	_	25	punct	_	_
+20	одновременно	одновременно	ADV	_	Degree=Pos	25	advmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	отличием	отличие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	conj	_	_
+24	-	-	PUNCT	_	_	20	punct	_	_
+25	программу	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	conj	_	_
+26	дополнительного	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+27	профессионального	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+29	Британской	британский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+31	дизайна	дизайн	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	по	по	ADP	_	_	33	case	_	_
+33	направлению	направление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	30	nmod	_	_
+34	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+35	современное	современный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	искусство	искусство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
+37	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 21
+# text = Сейчас обучается на магистерской программе Открытого колледжа искусств (Великобритания).
+1	Сейчас	сейчас	ADV	_	Degree=Pos	2	advmod	_	_
+2	обучается	обучаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	магистерской	магистерский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	программе	программа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+6	Открытого	открытый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	колледжа	колледж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	Великобритания	Великобритания	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = В текущем году демонстрировала свои работы в епархиальном музее сицилийского города Кальтаджироне, в рамках выставки "Personal structures" в венецианском Palazzo Bembo, на Лондонской биеннале искусств.
+1	В	в	ADP	_	_	3	case	_	_
+2	текущем	текущий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	демонстрировала	демонстрировать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	свои	свой	DET	_	Case=Acc|Number=Plur	6	det	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	епархиальном	епархиальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	музее	музей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+10	сицилийского	сицилийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	Кальтаджироне	Кальтаджирон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	conj	_	_
+16	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	Personal	Personal	PROPN	_	Foreign=Yes	16	flat:foreign	_	_
+19	structures	structures	X	_	Foreign=Yes	16	flat:foreign	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	19	punct	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	венецианском	венецианский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	obl	_	_
+23	Palazzo	Palazzo	PROPN	_	Foreign=Yes	22	flat:foreign	_	_
+24	Bembo	Bembo	PROPN	_	Foreign=Yes	22	flat:foreign	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	Лондонской	лондонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	биеннале	биеннал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	conj	_	_
+29	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 23
+# text = Выпустила 18 художественных монографий...
+1	Выпустила	выпустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	18	18	NUM	_	_	4	nummod	_	_
+3	художественных	художественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	монографий	монография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Ну, если верить пиар-команде новоявленной звезды современного искусства.
+1	Ну	ну	PART	_	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	если	если	SCONJ	_	_	4	mark	_	_
+4	верить	верить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+5	пиар	пиар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	команде	команда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	appos	_	_
+8	новоявленной	новоявленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	звезды	звезда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+10	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 25
+# text = Как бы то ни было, персональная выставка дамы с колоритной биографией в Музее Востока - факт.
+1	Как	как	SCONJ	_	_	17	parataxis	_	_
+2	бы	бы	PART	_	_	1	fixed	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	ни	ни	PART	_	Polarity=Neg	1	fixed	_	_
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	fixed	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	персональная	персональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+9	дамы	дама	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	колоритной	колоритный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	биографией	биография	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	Музее	музей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+15	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	-	-	PUNCT	_	_	8	punct	_	_
+17	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 26
+# text = Церемония открытия состоялась тихо, без лишнего шума.
+1	Церемония	церемония	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	открытия	открытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	состоялась	состояться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	тихо	тихо	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	без	без	ADP	_	_	8	case	_	_
+7	лишнего	лишний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	шума	шум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 27
+# text = Виновница торжества отсутствовала, она находится за пределами России.
+1	Виновница	виновница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	торжества	торжество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	отсутствовала	отсутствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+6	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+7	за	за	ADP	_	_	8	case	_	_
+8	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	obl	_	_
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 28
+# text = Проект "Око" включает обработанные с помощью компьютерных программ фотографии ("Трансформация"), скульптурные композиции ("Сотворение") и видеоарт (собственно "Око").
+1	Проект	проект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Око	око	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	обработанные	обработать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	_
+7	с	с	ADP	_	_	10	case	_	_
+8	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	fixed	_	_
+9	компьютерных	компьютерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	программ	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	_
+11	фотографии	фотография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Трансформация	трансформация	PROPN	_	_	11	parataxis	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	скульптурные	скульптурный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+19	композиции	композиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	conj	_	_
+20	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	Сотворение	Сотворение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	parataxis	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	22	punct	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	видеоарт	видеоарт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	conj	_	_
+27	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+28	собственно	собственно	ADV	_	Degree=Pos	30	advmod	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	Око	око	ADV	_	Degree=Pos	26	parataxis	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 29
+# text = "Воздействуя на зрителя самыми различными способами, эти работы позволяют вслед за автором пройти все этапы его творчества, соотносимого с жизненным циклом как отдельного индивидуума, так и всего окружающего мира.
+1	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+2	Воздействуя	воздействовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	зрителя	зритель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+5	самыми	самый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	различными	различный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	эти	этот	DET	_	Case=Nom|Number=Plur	10	det	_	_
+10	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+11	позволяют	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	вслед	вслед	ADV	_	Degree=Pos	15	advmod	_	_
+13	за	за	ADP	_	_	14	case	_	_
+14	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
+15	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+16	все	весь	DET	_	Case=Acc|Number=Plur	17	det	_	_
+17	этапы	этап	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+18	его	его	DET	_	_	19	det	_	_
+19	творчества	творчество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	соотносимого	соотносимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	с	с	ADP	_	_	24	case	_	_
+23	жизненным	жизненный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	циклом	цикл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	_
+25	как	как	SCONJ	_	_	27	mark	_	_
+26	отдельного	отдельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	индивидуума	индивидуум	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	так	так	ADV	_	Degree=Pos	33	cc	_	_
+30	и	и	PART	_	_	29	fixed	_	_
+31	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing	33	det	_	_
+32	окружающего	окружать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	33	amod	_	_
+33	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	conj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 30
+# text = Творчество EVA во многом созвучно Востоку, этим объясняется то, что экспозиция выставки разворачивается в пространстве Государственного музея Востока.
+1	Творчество	творчество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	EVA	EVA	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	во	в	ADP	_	_	4	case	_	_
+4	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+5	созвучно	созвучный	ADV	_	Degree=Pos	1	advmod	_	_
+6	Востоку	Восток	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	_
+9	объясняется	объяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+10	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	что	что	SCONJ	_	_	15	mark	_	_
+13	экспозиция	экспозиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+14	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	разворачивается	развертываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	acl	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+18	Государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	музея	музей	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31
+# text = Характерная черта искусства EVA — особая пластичность, любовь к неожиданным метафорам и метаморфозам.
+1	Характерная	характерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	черта	черта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	EVA	EVA	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+5	—	—	PUNCT	_	_	2	punct	_	_
+6	особая	особый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	пластичность	пластичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	любовь	любовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+10	к	к	ADP	_	_	12	case	_	_
+11	неожиданным	неожиданный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	12	amod	_	_
+12	метафорам	метафора	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	9	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	метаморфозам	метаморфоза	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 32
+# text = EVA свободно обращается с формой, без усилий выходит за её рамки, превращая в хаос и вновь упорядочивая продуманным ритмом линий и цветовых пятен.
+1	EVA	eva	PROPN	_	Foreign=Yes	3	nsubj	_	_
+2	свободно	свободно	ADV	_	Degree=Pos	3	advmod	_	_
+3	обращается	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	без	без	ADP	_	_	8	case	_	_
+8	усилий	усилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	obl	_	_
+9	выходит	выходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+10	за	за	ADP	_	_	12	case	_	_
+11	её	ее	DET	_	_	12	det	_	_
+12	рамки	рамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	превращая	превращать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	хаос	хаос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	вновь	вновь	ADV	_	Degree=Pos	19	advmod	_	_
+19	упорядочивая	упорядочивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	conj	_	_
+20	продуманным	продуманный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	ритмом	ритм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+22	линий	линия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+23	и	и	CCONJ	_	_	25	cc	_	_
+24	цветовых	цветовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+25	пятен	пятно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 33
+# text = EVA — продукт нашего высокотехнологичного времени.
+1	EVA	eva	X	_	Foreign=Yes	0	root	_	_
+2	—	—	PUNCT	_	_	1	punct	_	_
+3	продукт	продукт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+5	высокотехнологичного	высокотехнологичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 34
+# text = Художник смело экспериментирует, используя весь спектр выразительности визуальных форм и приёмов концептуального искусства.
+1	Художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	смело	смело	ADV	_	Degree=Pos	3	advmod	_	_
+3	экспериментирует	экспериментировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	_
+6	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	7	det	_	_
+7	спектр	спектра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	выразительности	выразительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	визуальных	визуальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	приёмов	приём	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
+13	концептуального	концептуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 35
+# text = Элементы экспозиции вступают в резонанс, сталкиваются в контрапункте.
+1	Элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	экспозиции	экспозиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	вступают	вступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	резонанс	резонанс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	сталкиваются	сталкиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	контрапункте	контрапункт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 36
+# text = Так художник вовлекает зрителя в тщательно срежиссированный спектакль, заставляя разгадывать его зашифрованные смыслы.
+1	Так	так	ADV	_	Degree=Pos	3	advmod	_	_
+2	художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	вовлекает	вовлекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	зрителя	зритель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	в	в	ADP	_	_	8	case	_	_
+6	тщательно	тщательно	ADV	_	Degree=Pos	7	obl	_	_
+7	срежиссированный	режиссировать	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	спектакль	спектакль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	заставляя	заставлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	_
+11	разгадывать	разгадать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	его	он	DET	_	_	14	det	_	_
+13	зашифрованные	зашифровать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	смыслы	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 37
+# text = Собранные в единый проект произведения разных видов искусства обретают кумулятивную энергию: стирается грань между двухмерностью и трёхмерностью, создавая абстрагированный от внешних реалий мир с его имманентными законами и собственной философией", - гласит текст на портале Музея Востока.
+1	Собранные	собрать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	единый	единый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
+5	произведения	произведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+6	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	обретают	обретать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	кумулятивную	кумулятивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	энергию	энергия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	9	punct	_	_
+13	стирается	стираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	parataxis	_	_
+14	грань	грань	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	между	между	ADP	_	_	16	case	_	_
+16	двухмерностью	двухмерность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	трёхмерностью	трёхмерность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	создавая	создавать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	36	advcl	_	_
+21	абстрагированный	абстрагировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	_
+22	от	от	ADP	_	_	24	case	_	_
+23	внешних	внешний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	реалий	реалия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	obl	_	_
+25	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+26	с	с	ADP	_	_	29	case	_	_
+27	его	его	DET	_	_	29	det	_	_
+28	имманентными	имманентный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	29	amod	_	_
+29	законами	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	nmod	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	собственной	собственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	философией	философия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	conj	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	32	punct	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	32	punct	_	_
+35	-	-	PUNCT	_	_	25	punct	_	_
+36	гласит	гласить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+37	текст	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	obj	_	_
+38	на	на	ADP	_	_	39	case	_	_
+39	портале	портал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	37	nmod	_	_
+40	Музея	музей	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+41	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\r\n
+
+# sent_id = 38
+# text = А вы всё - воровка, воровка.
+1	А	а	CCONJ	_	_	3	cc	_	_
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	3	nsubj	_	_
+3	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	-	-	PUNCT	_	_	5	punct	_	_
+5	воровка	воровка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	воровка	воровка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 39
+# text = Приземлённому быдлу не понять "смелых экспериментов" и "свободного обращения с формой".
+1	Приземлённому	Приземлёть	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	быдлу	быдло	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	смелых	смелый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	экспериментов	эксперимент	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	и	и	CCONJ	_	_	12	cc	_	_
+10	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	свободного	свободный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 40
+# text = Серости недоступен "абстрагированный от внешних реалий мир с его имманентными законами и собственной философией".
+1	Серости	серость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	недоступен	недоступный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	абстрагированный	абстрагированный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+5	от	от	ADP	_	_	7	case	_	_
+6	внешних	внешний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	реалий	реалия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+8	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	iobj	_	_
+9	с	с	ADP	_	_	12	case	_	_
+10	его	его	DET	_	_	12	det	_	_
+11	имманентными	имманентный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+12	законами	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	8	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	собственной	собственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	философией	философия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 41
+# text = Негоже, неприлично вспоминать о каких-то хищениях в оборонном ведомстве.
+1	Негоже	негоже	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	неприлично	неприлично	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	conj	_	_
+4	вспоминать	вспоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	каких-то	какой-то	DET	_	Case=Loc|Number=Plur	7	det	_	_
+7	хищениях	хищение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	оборонном	оборонный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 42
+# text = Концептуальное творчество Васильевой: "Знакомя российского зрителя с творчеством художника EVA, я получаю удовлетворение от возможности не только представить широкой публике художника, творчество и мышление которого созвучны времени, но и поставить собственный эксперимент, а именно: исследовать, насколько наше общество, привыкшее к более традиционной культуре, готово воспринять отраженный в этих произведениях мир, который уже никогда не станет прежним", - говорит куратор выставки Юлия Вербицкая (Линник), глава вышеупомянутого Фонда "Русские меценаты", коллекционер, адвокат, бывший председатель Третейского суда строительных организаций города Москвы.
+1	Концептуальное	Концептуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	творчество	творчество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	Васильевой	Васильев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Знакомя	Знакомя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	_
+7	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	зрителя	зритель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	творчеством	творчество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	_
+11	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	EVA	EVA	PROPN	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	15	nsubj	_	_
+15	получаю	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+16	удовлетворение	удовлетворение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	от	от	ADP	_	_	18	case	_	_
+18	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	только	только	PART	_	_	21	advmod	_	_
+21	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+22	широкой	широкий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	публике	публика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	_
+24	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	творчество	творчество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	42	obj	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	мышление	мышление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	42	obj	_	_
+29	которого	который	PRON	_	Case=Gen	28	nmod	_	_
+30	созвучны	созвучный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	42	obl	_	_
+31	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	но	но	CCONJ	_	_	35	cc	_	_
+34	и	и	PART	_	_	33	advmod	_	_
+35	поставить	ставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	conj	_	_
+36	собственный	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	эксперимент	эксперимент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	а	а	CCONJ	_	_	42	parataxis	_	_
+40	именно	именно	PART	_	_	39	fixed	_	SpaceAfter=No
+41	:	:	PUNCT	_	_	42	iobj	_	_
+42	исследовать	исследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	54	punct	_	_
+44	насколько	насколько	ADV	_	Degree=Pos	54	advmod	_	_
+45	наше	наш	DET	_	Case=Nom|Gender=Neut|Number=Sing	46	det	_	_
+46	общество	общество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	54	nsubj	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	привыкшее	привыкнуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	46	acl	_	_
+49	к	к	ADP	_	_	52	case	_	_
+50	более	более	ADV	_	Degree=Cmp	51	obl	_	_
+51	традиционной	традиционный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	_
+52	культуре	культура	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	48	obl	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	48	punct	_	_
+54	готово	готовый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	42	obl	_	_
+55	воспринять	воспринять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	54	csubj	_	_
+56	отраженный	отразить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	60	acl	_	_
+57	в	в	ADP	_	_	59	case	_	_
+58	этих	этот	DET	_	Case=Loc|Number=Plur	59	det	_	_
+59	произведениях	произведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	56	obl	_	_
+60	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	66	punct	_	_
+62	который	который	PRON	_	Case=Nom	66	nsubj	_	_
+63	уже	уже	ADV	_	Degree=Pos	64	advmod	_	_
+64	никогда	никогда	ADV	_	Degree=Pos	66	advmod	_	_
+65	не	не	PART	_	_	66	advmod	_	_
+66	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	60	acl:relcl	_	_
+67	прежним	прежний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	66	obl	_	SpaceAfter=No
+68	"	"	PUNCT	_	_	71	punct	_	SpaceAfter=No
+69	,	,	PUNCT	_	_	71	punct	_	_
+70	-	-	PUNCT	_	_	71	punct	_	_
+71	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	parataxis	_	_
+72	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	71	nsubj	_	_
+73	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	72	nmod	_	_
+74	Юлия	Юлия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	72	appos	_	_
+75	Вербицкая	Вербицкая	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	74	flat:name	_	_
+76	(	(	PUNCT	_	_	77	punct	_	SpaceAfter=No
+77	Линник	Линник2	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	74	parataxis	_	SpaceAfter=No
+78	)	)	PUNCT	_	_	77	punct	_	SpaceAfter=No
+79	,	,	PUNCT	_	_	80	punct	_	_
+80	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	72	conj	_	_
+81	вышеупомянутого	вышеупомянутый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	82	amod	_	_
+82	Фонда	Фонд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	80	nmod	_	_
+83	"	"	PUNCT	_	_	85	punct	_	SpaceAfter=No
+84	Русские	русский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	85	amod	_	_
+85	меценаты	меценат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	82	appos	_	SpaceAfter=No
+86	"	"	PUNCT	_	_	85	punct	_	SpaceAfter=No
+87	,	,	PUNCT	_	_	88	punct	_	_
+88	коллекционер	коллекционер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	72	conj	_	SpaceAfter=No
+89	,	,	PUNCT	_	_	90	punct	_	_
+90	адвокат	адвокат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	72	conj	_	SpaceAfter=No
+91	,	,	PUNCT	_	_	93	punct	_	_
+92	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	93	amod	_	_
+93	председатель	председатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	72	conj	_	_
+94	Третейского	третейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	95	amod	_	_
+95	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	93	nmod	_	_
+96	строительных	строительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	97	amod	_	_
+97	организаций	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	95	nmod	_	_
+98	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	97	nmod	_	_
+99	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	98	appos	_	SpaceAfter=No
+100	.	.	PUNCT	_	_	42	punct	_	SpacesAfter=\r\n
+
+# sent_id = 43
+# text = Собравшимся на открытии выставки Вербицкая (Линник) рассказала трогательную историю: "В кабинете декана факультета искусств МГУ я увидела триптих.
+1	Собравшимся	собраться	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	9	nsubj	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	открытии	открытие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	_
+4	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	Вербицкая	Вербицкая	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Линник	Линник2	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	рассказала	рассказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	трогательную	трогательной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	В	в	ADP	_	_	15	case	_	_
+15	кабинете	кабинет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	_
+16	декана	декан	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	факультета	факультет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+19	МГУ	МГУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	21	nsubj	_	_
+21	увидела	видеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+22	триптих	триптот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 44
+# text = Это были абстрактные работы, яркие, мощные, абсолютно не ученические.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	абстрактные	абстрактный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	яркие	яркий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	мощные	мощный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	абсолютно	абсолютно	ADV	_	Degree=Pos	11	advmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	ученические	ученический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 45
+# text = «Кто это, чьи это работы?» - спросила я.
+1	«Кто	«Кто	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	чьи	чей	DET	_	Case=Nom|Number=Plur	6	det	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	»	»	PUNCT	_	_	6	punct	_	_
+9	-	-	PUNCT	_	_	10	punct	_	_
+10	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	10	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 46
+# text = В ответ получила только информацию о том, что это наша выпускница с псевдонимом Ева.
+1	В	в	ADP	_	_	2	case	_	_
+2	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+3	получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	только	только	PART	_	_	5	advmod	_	_
+5	информацию	информация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	о	о	ADP	_	_	7	case	_	_
+7	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	что	что	SCONJ	_	_	12	mark	_	_
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+11	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing	12	det	_	_
+12	выпускница	выпускница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	acl	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	псевдонимом	псевдоним	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+15	Ева	Ева	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 47
+# text = Найти художника в России — дело нехитрое, но с этим автором история затянулась.
+1	Найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+2	художника	художник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+5	—	—	PUNCT	_	_	1	punct	_	_
+6	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+7	нехитрое	нехитрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	но	но	CCONJ	_	_	14	cc	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	этим	это	DET	_	Case=Ins|Gender=Masc|Number=Sing	12	det	_	_
+12	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
+13	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	затянулась	затянуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 48
+# text = Работы Евы обнаруживались где угодно, но только не здесь — в Германии, Франции, Италии, Великобритании, США.
+1	Работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+2	Евы	Ева	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	обнаруживались	обнаруживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	где	где	ADV	_	Degree=Pos	5	advmod	_	_
+5	угодно	угодно	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	но	но	CCONJ	_	_	10	cc	_	_
+8	только	только	PART	_	_	10	advmod	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	здесь	здесь	ADV	_	Degree=Pos	3	conj	_	_
+11	—	—	PUNCT	_	_	13	punct	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	Германии	Германия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Италии	Италия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	США	США	PROPN	_	Animacy=Inan|Case=Nom|Number=Plur	13	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 49
+# text = Мне посчастливилось познакомиться с ней и организовать её первую музейную выставку в Москве".
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	2	iobj	_	_
+2	посчастливилось	посчастливиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	познакомиться	знакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	csubj	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	3	obl	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	_
+8	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	_	_
+9	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+10	музейную	музейный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	выставку	выставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 50
+# text = То есть раньше дамы знакомы не были.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	раньше	ранее	ADV	_	Degree=Cmp	7	advmod	_	_
+4	дамы	дама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+5	знакомы	знаком	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 51
+# text = Странно.
+1	Странно	странно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = На своём личном сайте г-жа Вербицкая (Линник) делится информацией о том, что "работала на руководящих должностях в Правительстве Москвы, являлась Советником Первого заместителя Мэра Москвы в Правительстве Москвы, руководителем Комплекса архитектуры, строительства, развития и реконструкции г. Москвы В. И.
+1	На	на	ADP	_	_	4	case	_	_
+2	своём	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	4	det	_	_
+3	личном	личный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+5	г-жа	госпожа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+6	Вербицкая	Вербицкая	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Линник	Линник2	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	_
+10	делится	делиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	информацией	информация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+12	о	о	ADP	_	_	13	case	_	_
+13	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	что	что	SCONJ	_	_	17	mark	_	_
+16	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	_
+18	на	на	ADP	_	_	20	case	_	_
+19	руководящих	руководить	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	amod	_	_
+20	должностях	должность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	obl	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	Правительстве	Правительство	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	nmod	_	_
+23	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	являлась	являться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	_
+26	Советником	советник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	_
+27	Первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	заместителя	заместитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+29	Мэра	мэр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	Правительстве	Правительство	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	nmod	_	_
+33	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	руководителем	руководитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	33	conj	_	_
+36	Комплекса	комплекс	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+37	архитектуры	архитектура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	строительства	строительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	conj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	conj	_	_
+42	и	и	CCONJ	_	_	43	cc	_	_
+43	реконструкции	реконструкция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	37	conj	_	_
+44	г.	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	_
+45	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	44	nmod	_	_
+46	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+47	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	46	flat:name	_	_
+
+# sent_id = 53
+# text = Ресина".
+1	Ресина	Ресина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = Выходит, обе трудились советницами Ресина и умудрились ни разу не встретиться.
+1	Выходит	выходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	обе	оба	NUM	_	Case=Nom|Gender=Fem	4	nsubj	_	_
+4	трудились	трудиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	советницами	советница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+6	Ресина	Ресин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	умудрились	умудриться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+9	ни	ни	PART	_	Polarity=Neg	12	advmod	_	_
+10	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	9	fixed	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	встретиться	встретиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\r\n
+
